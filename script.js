@@ -1,12 +1,12 @@
 const messages = [
-  "¿Seguro?",
+  "¿Segura?",
   "Piénsalo bien",
-  "Oye...",
-  "No seas cruel",
-  "Mira el otro botón",
-  "Ese Sí se ve bonito",
-  "Ya sabes la respuesta",
-  "Vamos, di que sí"
+  "Yapoooo",
+  "Pesada...",
+  "Igual te amo",
+  "Ese Sí está lindo",
+  "Leonor, para",
+  "Ni se te ocurra"
 ];
 
 let messageIndex = 0;
